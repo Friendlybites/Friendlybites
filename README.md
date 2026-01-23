@@ -1,5 +1,5 @@
 ## 𝕿𝖔𝖗𝖚𝖐 𝕸𝖆𝖐𝖙𝖔
-<p align="center">![2be5baf5d6dbff436d17fb62bc56532a](https://github.com/user-attachments/assets/b7e2ab10-39ba-4cce-8799-26447afa49b3)
+<p align="center">  ![2be5baf5d6dbff436d17fb62bc56532a](https://github.com/user-attachments/assets/b7e2ab10-39ba-4cce-8799-26447afa49b3)
 
 
 
