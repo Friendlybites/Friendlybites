@@ -1,5 +1,5 @@
 ## 𝕿𝖔𝖗𝖚𝖐 𝕸𝖆𝖐𝖙𝖔
-<p align="center"> <img width="720" height="1280" alt="image (2)" src="https://github.com/user-attachments/assets/245d5b99-95a3-4d97-b19b-50fef2d5519c" />
+<p align="center"> <img width="80" height="100" alt="image (2)" src="https://github.com/user-attachments/assets/245d5b99-95a3-4d97-b19b-50fef2d5519c" />
 
 
 
