@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/2b/e5/ba/2be5baf5d6dbff436d17fb62bc56532a.gif" />
 </p>
+
 <p align="center"> <img width="110" height="220" alt="image (1)" src="https://github.com/user-attachments/assets/a5523135-73d7-4dc2-ae50-aac74addf890" />
 
 <p align="center"> ɴᴇʏᴛɪʀɪ: ᴡʜʏ ꜱᴀᴠᴇ ʏᴏᴜ?
