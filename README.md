@@ -8,12 +8,12 @@
 
  <p align="left"> <img width="226" height="267" alt="aee4af5469ee0d37751afcb010a9e9cb-removebg-preview" src="https://github.com/user-attachments/assets/d89ee0b5-12a3-40fa-8c09-e6f12f714fd2" />
 
-![3a578a4a3818bb5646e0683cbbde11e2](https://github.com/user-attachments/assets/0fe37ccf-2b17-4adf-b9ba-54dbd64573cd)
+<p align="center"> 𝖎 𝖑𝖔𝖛𝖊 𝖞𝖔𝖚  
+ <p align="center"> 𝔭𝔩𝔢𝔞𝔰𝔢 𝔣𝔬𝔯𝔤𝔦𝔳𝔢 𝔪𝔢
 
 
-<p align="center"> 𝖎 𝖑𝖔𝖛𝖊 𝖞𝖔𝖚
+<p align="right"> <img width="206" height="275" alt="aee4af5469ee0d37751afcb010a9e9cb-removebg-preview" src="https://github.com/user-attachments/assets/1c07c70d-3c09-48db-bd52-6bd2b3959270" />
 
-<p align="center">𝔭𝔩𝔢𝔞𝔰𝔢 𝔣𝔬𝔯𝔤𝔦𝔳𝔢 𝔪𝔢
 
 <p align="center"> <img width="264" height="174" alt="Picsart_23-11-24_14-39-48-924" src="https://github.com/user-attachments/assets/a6692a0c-1fd1-4cd8-ac60-1d471e805079" /><img width="264" height="174" alt="Picsart_23-11-24_14-39-48-924" src="https://github.com/user-attachments/assets/a6692a0c-1fd1-4cd8-ac60-1d471e805079" /><img width="264" height="174" alt="Picsart_23-11-24_14-39-48-924" src="https://github.com/user-attachments/assets/a6692a0c-1fd1-4cd8-ac60-1d471e805079" />
  
