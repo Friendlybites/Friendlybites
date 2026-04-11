@@ -6,7 +6,7 @@
 
 <p align="center"> <img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/6adb247b-1f90-4304-a3e2-704f4e144d43" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/d4ed89b9-1221-44f2-81d9-9d1099f1deb9" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/6adb247b-1f90-4304-a3e2-704f4e144d43" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/d4ed89b9-1221-44f2-81d9-9d1099f1deb9" />
 
- <p align="left"> <img width="226" height="267" alt="aee4af5469ee0d37751afcb010a9e9cb-removebg-preview" src="https://github.com/user-attachments/assets/d89ee0b5-12a3-40fa-8c09-e6f12f714fd2" />
+ <p align="right"> <img width="206" height="275" alt="aee4af5469ee0d37751afcb010a9e9cb-removebg-preview" src="https://github.com/user-attachments/assets/069df327-ecd1-40ff-8df9-12ef2b2a51e7" />
 
 <p align="center"> 
  
@@ -18,7 +18,7 @@
  <p align="center"> 𝔭𝔩𝔢𝔞𝔰𝔢 𝔣𝔬𝔯𝔤𝔦𝔳𝔢 𝔪𝔢
 
 
-<p align="right"> <img width="206" height="275" alt="aee4af5469ee0d37751afcb010a9e9cb-removebg-preview" src="https://github.com/user-attachments/assets/1c07c70d-3c09-48db-bd52-6bd2b3959270" />
+<p align="left"> <img width="206" height="275" alt="aee4af5469ee0d37751afcb010a9e9cb-removebg-preview" src="https://github.com/user-attachments/assets/5954e4ac-7b73-4cd0-904d-9f5f8ec0cffd" /> 
 
 <p align="center"> <img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/6adb247b-1f90-4304-a3e2-704f4e144d43" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/d4ed89b9-1221-44f2-81d9-9d1099f1deb9" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/6adb247b-1f90-4304-a3e2-704f4e144d43" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/d4ed89b9-1221-44f2-81d9-9d1099f1deb9" />
  
