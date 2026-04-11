@@ -12,7 +12,7 @@
 
 <p align="center">𝔭𝔩𝔢𝔞𝔰𝔢 𝔣𝔬𝔯𝔤𝔦𝔳𝔢 𝔪𝔢
 
-<p align="center"> <img width="464" height="174" alt="Picsart_23-11-24_14-39-48-924" src="https://github.com/user-attachments/assets/a6692a0c-1fd1-4cd8-ac60-1d471e805079" /><img width="464" height="174" alt="Picsart_23-11-24_14-39-48-924" src="https://github.com/user-attachments/assets/a6692a0c-1fd1-4cd8-ac60-1d471e805079" />
+<p align="center"> <img width="264" height="174" alt="Picsart_23-11-24_14-39-48-924" src="https://github.com/user-attachments/assets/a6692a0c-1fd1-4cd8-ac60-1d471e805079" /><img width="264" height="174" alt="Picsart_23-11-24_14-39-48-924" src="https://github.com/user-attachments/assets/a6692a0c-1fd1-4cd8-ac60-1d471e805079" />
 
  <p align="center"> <img width="226" height="267" alt="aee4af5469ee0d37751afcb010a9e9cb-removebg-preview" src="https://github.com/user-attachments/assets/1129aa67-2d16-4077-83c5-a063d8f54a53" />
 
