@@ -12,5 +12,5 @@
 
 <p align="center"> ɴᴇʏᴛɪʀɪ: ʏᴏᴜ ʜᴀᴠᴇ ᴀ ꜱᴛʀᴏɴɢ ʜᴇᴀʀᴛ. ɴᴏ ꜰᴇᴀʀ. ʙᴜᴛ ꜱᴛᴜᴘɪᴅ! ɪɢɴᴏʀᴀɴᴛ ʟɪᴋᴇ ᴀ ᴄʜɪʟᴅ!
 
-<p align="center"> <img width="577" height="433" alt="3d6336469ed53133aa6e1ed81956627a-removebg-preview" src="https://github.com/user-attachments/assets/0c7c3647-df5c-4d2a-9531-4966a19ce3d9" />
+<p align="center"> <img width="577" height="433" alt="3d6336469ed53133aa6e1ed81956627a-removebg-preview" src="https://github.com/user-attachments/assets/0c7c3647-df5c-4d2a-9531-4966a19ce3d9" />  <img width="577" height="433" alt="3d6336469ed53133aa6e1ed81956627a-removebg-preview" src="https://github.com/user-attachments/assets/0c7c3647-df5c-4d2a-9531-4966a19ce3d9" />  <img width="577" height="433" alt="3d6336469ed53133aa6e1ed81956627a-removebg-preview" src="https://github.com/user-attachments/assets/0c7c3647-df5c-4d2a-9531-4966a19ce3d9" />
 
