@@ -1,6 +1,6 @@
 ## 𝕿𝖔𝖗𝖚𝖐 𝕸𝖆𝖐𝖙𝖔
 
-<img width="500" height="500" alt="cdb0d1494bb594474e81a7951bf52841-removebg-preview (2)" src="https://github.com/user-attachments/assets/9419b7ad-b267-46c0-97b7-8384acb296dd" />
+<p align="center"> <img width="500" height="500" alt="cdb0d1494bb594474e81a7951bf52841-removebg-preview (2)" src="https://github.com/user-attachments/assets/9419b7ad-b267-46c0-97b7-8384acb296dd" />
 
 
 <p align="center"> 𝒜𝓁𝓁 𝐼 𝑒𝓋𝑒𝓇 𝓌𝒶𝓃𝓉𝑒𝒹 𝓌𝒶𝓈 𝒶 𝓈𝒾𝓃𝑔𝓁𝑒 𝓉𝒽𝒾𝓃𝑔 𝓌𝑜𝓇𝓉𝒽 𝒻𝒾𝑔𝒽𝓉𝒾𝓃𝑔 𝒻𝑜𝓇.  <img width="80" height="100" alt="image (2)" src="https://github.com/user-attachments/assets/245d5b99-95a3-4d97-b19b-50fef2d5519c" /> 
