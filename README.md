@@ -12,11 +12,7 @@
  
  ![feee7f3ca6977b8eae19862e01aa6317](https://github.com/user-attachments/assets/ccc24e6d-a918-44f1-9598-752569beea1c)
 
-
-
-<p align="center"> 𝖎 𝖑𝖔𝖛𝖊 𝖞𝖔𝖚  
- <p align="center"> 𝔭𝔩𝔢𝔞𝔰𝔢 𝔣𝔬𝔯𝔤𝔦𝔳𝔢 𝔪𝔢
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=8069C5&background=331EC02C&center=true&width=435&lines=%F0%9D%96%8E+%F0%9D%96%91%F0%9D%96%94%F0%9D%96%9B%F0%9D%96%8A+%F0%9D%96%9E%F0%9D%96%94%F0%9D%96%9A++;%F0%9D%94%AD%F0%9D%94%A9%F0%9D%94%A2%F0%9D%94%9E%F0%9D%94%B0%F0%9D%94%A2+%F0%9D%94%A3%F0%9D%94%AC%F0%9D%94%AF%F0%9D%94%A4%F0%9D%94%A6%F0%9D%94%B3%F0%9D%94%A2+%F0%9D%94%AA%F0%9D%94%A2" alt="Typing SVG" /></a>
 
 <p align="left"> <img width="206" height="275" alt="aee4af5469ee0d37751afcb010a9e9cb-removebg-preview" src="https://github.com/user-attachments/assets/5954e4ac-7b73-4cd0-904d-9f5f8ec0cffd" /> 
 
