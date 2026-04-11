@@ -1,7 +1,8 @@
 ## 𝕿𝖔𝖗𝖚𝖐 𝕸𝖆𝖐𝖙𝖔
 
 
-<p align="left"> <img width="142" height="298" alt="download (1)" src="https://github.com/user-attachments/assets/e4035962-9be5-4956-bb16-6069fe28cb2f" />
+<p align="left"> <img width="577" height="433" alt="Thiết kế chưa có tên (1)" src="https://github.com/user-attachments/assets/ec1c42d4-bb79-4bc5-be17-0b9b596aa521" />
+
 
 <p align="center"> 𝒜𝓁𝓁 𝐼 𝑒𝓋𝑒𝓇 𝓌𝒶𝓃𝓉𝑒𝒹 𝓌𝒶𝓈 𝒶 𝓈𝒾𝓃𝑔𝓁𝑒 𝓉𝒽𝒾𝓃𝑔 𝓌𝑜𝓇𝓉𝒽 𝒻𝒾𝑔𝒽𝓉𝒾𝓃𝑔 𝒻𝑜𝓇.  <img width="80" height="100" alt="image (2)" src="https://github.com/user-attachments/assets/245d5b99-95a3-4d97-b19b-50fef2d5519c" /> 
 
