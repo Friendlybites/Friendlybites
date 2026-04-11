@@ -10,5 +10,5 @@
 
 <p align="center"> ɴᴇʏᴛɪʀɪ: ʏᴏᴜ ʜᴀᴠᴇ ᴀ ꜱᴛʀᴏɴɢ ʜᴇᴀʀᴛ. ɴᴏ ꜰᴇᴀʀ. ʙᴜᴛ ꜱᴛᴜᴘɪᴅ! ɪɢɴᴏʀᴀɴᴛ ʟɪᴋᴇ ᴀ ᴄʜɪʟᴅ!
 
-<img width="386" height="647" alt="aee4af5469ee0d37751afcb010a9e9cb-removebg-preview" src="https://github.com/user-attachments/assets/fce2ef42-f009-4d84-830c-4d205907d458" />
+<p align="right"> <img width="386" height="647" alt="aee4af5469ee0d37751afcb010a9e9cb-removebg-preview" src="https://github.com/user-attachments/assets/fce2ef42-f009-4d84-830c-4d205907d458" />
 
