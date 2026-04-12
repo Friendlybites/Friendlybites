@@ -1,4 +1,4 @@
-## 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐡𝐨𝐦𝐞
+<p align="center"> 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐡𝐨𝐦𝐞
 
 <p align="center"> <img width="666" height="346" alt="28bfaaf8392a4c6dd792c96152bde73c-removebg-preview" src="https://github.com/user-attachments/assets/e545eba5-4c6c-43b8-b3ee-e5ef5d2907f7" />
 
