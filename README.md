@@ -20,5 +20,7 @@
 <p align="left"> <img width="206" height="275" alt="aee4af5469ee0d37751afcb010a9e9cb-removebg-preview" src="https://github.com/user-attachments/assets/5954e4ac-7b73-4cd0-904d-9f5f8ec0cffd" /> 
 
 <p align="center"> <img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/6adb247b-1f90-4304-a3e2-704f4e144d43" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/d4ed89b9-1221-44f2-81d9-9d1099f1deb9" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/6adb247b-1f90-4304-a3e2-704f4e144d43" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/d4ed89b9-1221-44f2-81d9-9d1099f1deb9" />
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFriendlybites&label=%F0%9D%90%85%F0%9D%90%AB%F0%9D%90%AE%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%AC&labelColor=%23ffb4eb&countColor=%23bda0db&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FFriendlybites)
  
 <p align="center"> <img width="800" height="433" alt="3d6336469ed53133aa6e1ed81956627a-removebg-preview" src="https://github.com/user-attachments/assets/0c7c3647-df5c-4d2a-9531-4966a19ce3d9" />
