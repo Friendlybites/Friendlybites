@@ -1,13 +1,13 @@
 <p align="center"> 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐡𝐨𝐦𝐞
 
-<p align="center"> <img width="666" height="346" alt="28bfaaf8392a4c6dd792c96152bde73c-removebg-preview" src="https://github.com/user-attachments/assets/e545eba5-4c6c-43b8-b3ee-e5ef5d2907f7" />
+<p align="center"> <img width="666" height="346" alt="28bfaaf8392a4c6dd792c96152bde73c-removebg-preview" src="https://github.com/user-attachments/assets/e545eba5-4c6c-43b8-b3ee-e5ef5d2907f7" /><p align="center"> <img width="800" height="433" alt="3d6336469ed53133aa6e1ed81956627a-removebg-preview" src="https://github.com/user-attachments/assets/0c7c3647-df5c-4d2a-9531-4966a19ce3d9" />
+
 
 <p align="center"> <img width="359" height="247" alt="405757d4b58fc5adac253f7c69baeaf5-removebg-preview" src="https://github.com/user-attachments/assets/7868d5eb-a15f-4f6f-960f-502b6958cf04" />
 
 
 <p align="center"> <img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/6adb247b-1f90-4304-a3e2-704f4e144d43" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/d4ed89b9-1221-44f2-81d9-9d1099f1deb9" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/6adb247b-1f90-4304-a3e2-704f4e144d43" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/d4ed89b9-1221-44f2-81d9-9d1099f1deb9" />
 
- <p align="right"> <img width="206" height="275" alt="aee4af5469ee0d37751afcb010a9e9cb-removebg-preview" src="https://github.com/user-attachments/assets/069df327-ecd1-40ff-8df9-12ef2b2a51e7" />
 
 <p align="center"> 
  
@@ -27,4 +27,3 @@
 <p align="center"><img width="440" height="260" alt="ced293787a38429c792a4ce2e0d5a07d-removebg-preview" src="https://github.com/user-attachments/assets/75de2dbb-218b-4444-9f38-be8e4be9f76b" />
 
  
-<p align="center"> <img width="800" height="433" alt="3d6336469ed53133aa6e1ed81956627a-removebg-preview" src="https://github.com/user-attachments/assets/0c7c3647-df5c-4d2a-9531-4966a19ce3d9" />
