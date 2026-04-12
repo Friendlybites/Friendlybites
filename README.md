@@ -9,8 +9,6 @@
 <p align="center"> <img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/6adb247b-1f90-4304-a3e2-704f4e144d43" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/d4ed89b9-1221-44f2-81d9-9d1099f1deb9" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/6adb247b-1f90-4304-a3e2-704f4e144d43" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/d4ed89b9-1221-44f2-81d9-9d1099f1deb9" />
 
 
-<img width="800" height="433" alt="3d6336469ed53133aa6e1ed81956627a-removebg-preview" src="https://github.com/user-attachments/assets/0c7c3647-df5c-4d2a-9531-4966a19ce3d9" />
-
 [ <p align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=9D6AF7F3&center=true&vCenter=true&width=435&lines=%F0%9D%94%A6+%F0%9D%94%A9%F0%9D%94%AC%F0%9D%94%B3%F0%9D%94%A2+%F0%9D%94%B6%F0%9D%94%AC%F0%9D%94%B2;%F0%9D%94%B1%F0%9D%94%A5%F0%9D%94%9E%F0%9D%94%AB%F0%9D%94%A8+%F0%9D%94%B6%F0%9D%94%AC%F0%9D%94%B2;%F0%9D%94%A6+%F0%9D%94%A3%F0%9D%94%AC%F0%9D%94%AF%F0%9D%94%A4%F0%9D%94%A6%F0%9D%94%B3%F0%9D%94%A2+%F0%9D%94%B6%F0%9D%94%AC%F0%9D%94%B2;%F0%9D%94%AD%F0%9D%94%A9%F0%9D%94%A2%F0%9D%94%9E%F0%9D%94%B0%F0%9D%94%A2+%F0%9D%94%A3%F0%9D%94%AC%F0%9D%94%AF%F0%9D%94%A4%F0%9D%94%A6%F0%9D%94%B3%F0%9D%94%A2+%F0%9D%94%AA%F0%9D%94%A2)](https://git.io/typing-svg)
 
 
@@ -24,6 +22,9 @@
 <img width="240" height=200" alt="16b1aea6ae501657039379feb67ae6e0-removebg-preview" src="https://github.com/user-attachments/assets/5b193f1f-59e6-44b1-8723-f665573b9bac" />
 
 <p align="center"> <img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/6adb247b-1f90-4304-a3e2-704f4e144d43" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/d4ed89b9-1221-44f2-81d9-9d1099f1deb9" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/6adb247b-1f90-4304-a3e2-704f4e144d43" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/d4ed89b9-1221-44f2-81d9-9d1099f1deb9" />
+
+<img width="800" height="433" alt="3d6336469ed53133aa6e1ed81956627a-removebg-preview" src="https://github.com/user-attachments/assets/0c7c3647-df5c-4d2a-9531-4966a19ce3d9" />
+
 
 [<p align="center">![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFriendlybites&label=%F0%9D%90%85%F0%9D%90%AB%F0%9D%90%AE%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%AC&labelColor=%23ffb4eb&countColor=%23bda0db&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FFriendlybites)
 
