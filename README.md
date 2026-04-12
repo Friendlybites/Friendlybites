@@ -17,8 +17,8 @@
 [ <p align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=9D6AF7F3&center=true&vCenter=true&width=435&lines=%F0%9D%94%A6+%F0%9D%94%A9%F0%9D%94%AC%F0%9D%94%B3%F0%9D%94%A2+%F0%9D%94%B6%F0%9D%94%AC%F0%9D%94%B2;%F0%9D%94%B1%F0%9D%94%A5%F0%9D%94%9E%F0%9D%94%AB%F0%9D%94%A8+%F0%9D%94%B6%F0%9D%94%AC%F0%9D%94%B2;%F0%9D%94%A6+%F0%9D%94%A3%F0%9D%94%AC%F0%9D%94%AF%F0%9D%94%A4%F0%9D%94%A6%F0%9D%94%B3%F0%9D%94%A2+%F0%9D%94%B6%F0%9D%94%AC%F0%9D%94%B2;%F0%9D%94%AD%F0%9D%94%A9%F0%9D%94%A2%F0%9D%94%9E%F0%9D%94%B0%F0%9D%94%A2+%F0%9D%94%A3%F0%9D%94%AC%F0%9D%94%AF%F0%9D%94%A4%F0%9D%94%A6%F0%9D%94%B3%F0%9D%94%A2+%F0%9D%94%AA%F0%9D%94%A2)](https://git.io/typing-svg)
 
 
-
-<p align="left"> <img width="206" height="275" alt="aee4af5469ee0d37751afcb010a9e9cb-removebg-preview" src="https://github.com/user-attachments/assets/5954e4ac-7b73-4cd0-904d-9f5f8ec0cffd" /> 
+<img width="300" height="300" alt="16b1aea6ae501657039379feb67ae6e0-removebg-preview" src="https://github.com/user-attachments/assets/dd2ce6aa-912c-40a4-a4e7-40e6e9a9fcbe" /><img width="275" height="275" alt="0c8fd3384746d8953f6dbc48ab72b93b-removebg-preview" src="https://github.com/user-attachments/assets/f45eae18-e7c5-4f25-8a2e-6c7625b322db" />
+<img width="300" height="300" alt="16b1aea6ae501657039379feb67ae6e0-removebg-preview" src="https://github.com/user-attachments/assets/5b193f1f-59e6-44b1-8723-f665573b9bac" />
 
 <p align="center"> <img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/6adb247b-1f90-4304-a3e2-704f4e144d43" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/d4ed89b9-1221-44f2-81d9-9d1099f1deb9" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/6adb247b-1f90-4304-a3e2-704f4e144d43" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/d4ed89b9-1221-44f2-81d9-9d1099f1deb9" />
 
