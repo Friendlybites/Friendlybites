@@ -1,9 +1,8 @@
 ## <p align="center"> ⋅˚₊‧ ⋆.࿔*:･⋆─── ⋆⋅𝐖𝐞𝐥𝐜𝐨𝐦𝐞☆𝐡𝐨𝐦𝐞⋅⋆ ───˚˖ ࣪⋅˚₊‧ ⋆.࿔*:･
 
-<p align="center"> <img width="359" height="247" alt="405757d4b58fc5adac253f7c69baeaf5-removebg-preview" src="https://github.com/user-attachments/assets/7868d5eb-a15f-4f6f-960f-502b6958cf04" />
+<p align="center"><img width="440" height="260" alt="ced293787a38429c792a4ce2e0d5a07d-removebg-preview" src="https://github.com/user-attachments/assets/75de2dbb-218b-4444-9f38-be8e4be9f76b" />
 
 <p align="center"> <img width="666" height="346" alt="28bfaaf8392a4c6dd792c96152bde73c-removebg-preview" src="https://github.com/user-attachments/assets/e545eba5-4c6c-43b8-b3ee-e5ef5d2907f7" />
-<p align="center"><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/a48ca87f-1e2b-48c0-9e87-ea12527637d6" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/a48ca87f-1e2b-48c0-9e87-ea12527637d6" />
 
 <p align="center"> <img width="800" height="433" alt="3d6336469ed53133aa6e1ed81956627a-removebg-preview" src="https://github.com/user-attachments/assets/0c7c3647-df5c-4d2a-9531-4966a19ce3d9" />
 
@@ -30,7 +29,12 @@
 
 [<p align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=2000&color=F7ACF2E6&center=true&vCenter=true&random=true&width=435&lines=%22%F0%9D%99%B9%F0%9D%9A%9E%F0%9D%9A%9C%F0%9D%9A%9D+%F0%9D%9A%9B%F0%9D%9A%8E%F0%9D%9A%95%F0%9D%9A%8A%F0%9D%9A%A1+%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%8D+%F0%9D%9A%95%F0%9D%9A%8E%F0%9D%9A%9D+%F0%9D%9A%A2%F0%9D%9A%98%F0%9D%9A%9E%F0%9D%9A%9B+%F0%9D%9A%96%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%8D+%F0%9D%9A%90%F0%9D%9A%98+%F0%9D%9A%8B%F0%9D%9A%95%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%94.%22;+%22%F0%9D%99%B8%F0%9D%9A%9D+%F0%9D%9A%9C%F0%9D%9A%91%F0%9D%9A%98%F0%9D%9A%9E%F0%9D%9A%95%F0%9D%9A%8D%F0%9D%9A%97'%F0%9D%9A%9D+%F0%9D%9A%8B%F0%9D%9A%8E+%F0%9D%9A%91%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%8D+%F0%9D%9A%8F%F0%9D%9A%98%F0%9D%9A%9B+%F0%9D%9A%A2%F0%9D%9A%98%F0%9D%9A%9E.%22)](https://git.io/typing-svg)
 
-<p align="center"><img width="440" height="260" alt="ced293787a38429c792a4ce2e0d5a07d-removebg-preview" src="https://github.com/user-attachments/assets/75de2dbb-218b-4444-9f38-be8e4be9f76b" />
+
+<p align="center"> <img width="359" height="247" alt="405757d4b58fc5adac253f7c69baeaf5-removebg-preview" src="https://github.com/user-attachments/assets/7868d5eb-a15f-4f6f-960f-502b6958cf04" />
+
+
+<p align="center"><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/a48ca87f-1e2b-48c0-9e87-ea12527637d6" /><img width="206" height="275" alt="27a28ff5c2c37f90fdb1d0055dfcd61a-removebg-preview" src="https://github.com/user-attachments/assets/a48ca87f-1e2b-48c0-9e87-ea12527637d6" />
+
 
  <p align="center"><img width="300" height="200" alt="5f2837be10691dc311ce2b8b12b2fcf6-removebg-preview" src="https://github.com/user-attachments/assets/57a32850-3d12-4c26-804e-3ca564c69cb3" /><img width="300" height="200" alt="5f2837be10691dc311ce2b8b12b2fcf6-removebg-preview" src="https://github.com/user-attachments/assets/57a32850-3d12-4c26-804e-3ca564c69cb3" />
 
