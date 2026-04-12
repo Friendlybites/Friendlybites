@@ -10,7 +10,7 @@
 
 <p align="center"> 
  
- ![<p align="center">feee7f3ca6977b8eae19862e01aa6317](https://github.com/user-attachments/assets/a17a125c-8454-4c60-b5fc-ed98e3c45d45)
+ ![<p align="right">feee7f3ca6977b8eae19862e01aa6317](https://github.com/user-attachments/assets/a17a125c-8454-4c60-b5fc-ed98e3c45d45)
 
  
 [ <p align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=9D6AF7F3&center=true&vCenter=true&width=435&lines=%F0%9D%94%A6+%F0%9D%94%A9%F0%9D%94%AC%F0%9D%94%B3%F0%9D%94%A2+%F0%9D%94%B6%F0%9D%94%AC%F0%9D%94%B2;%F0%9D%94%B1%F0%9D%94%A5%F0%9D%94%9E%F0%9D%94%AB%F0%9D%94%A8+%F0%9D%94%B6%F0%9D%94%AC%F0%9D%94%B2;%F0%9D%94%A6+%F0%9D%94%A3%F0%9D%94%AC%F0%9D%94%AF%F0%9D%94%A4%F0%9D%94%A6%F0%9D%94%B3%F0%9D%94%A2+%F0%9D%94%B6%F0%9D%94%AC%F0%9D%94%B2;%F0%9D%94%AD%F0%9D%94%A9%F0%9D%94%A2%F0%9D%94%9E%F0%9D%94%B0%F0%9D%94%A2+%F0%9D%94%A3%F0%9D%94%AC%F0%9D%94%AF%F0%9D%94%A4%F0%9D%94%A6%F0%9D%94%B3%F0%9D%94%A2+%F0%9D%94%AA%F0%9D%94%A2)](https://git.io/typing-svg)
