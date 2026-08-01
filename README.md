@@ -22,3 +22,9 @@
 <div align="center">
 
 <img width="100" height="100" alt="f3259b68688fdb9496ca2dcd86a29c98-removebg-preview" src="https://github.com/user-attachments/assets/1cf2b5b5-3605-4134-84e1-e5c1cb9e0d5b" /><img width="180" height="180" alt="1c769a77bf81375dd76e52f234b6108b-removebg-preview" src="https://github.com/user-attachments/assets/50fce323-67af-49b8-9854-e5c2643d7b17" /><img width="100" height="100" alt="f3259b68688fdb9496ca2dcd86a29c98-removebg-preview" src="https://github.com/user-attachments/assets/1cf2b5b5-3605-4134-84e1-e5c1cb9e0d5b" />
+
+
+<div>
+<div align="center">
+  
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFriendlybites&label=%F0%9D%90%8C%F0%9D%90%9E%F0%9D%90%A8%F0%9D%90%B0%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%AC&labelColor=%2377d4c3&countColor=%23171938&style=plastic&labelStyle=upper)
