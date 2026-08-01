@@ -10,6 +10,7 @@
 
 <img width="1920" height="751" alt="1785558305331_181274513764870949_1017977414555353985_6f9b7db654de6638f7206306139b96c0" src="https://github.com/user-attachments/assets/d5a49560-ddbd-4164-889b-2f62d77ff48f" />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4BACB3&center=true&repeat=false&width=435&lines=%22%F0%9D%99%BB%F0%9D%9A%8E%F0%9D%9A%9D'%F0%9D%9A%9C+%F0%9D%9A%90%F0%9D%9A%98+%F0%9D%9A%91%F0%9D%9A%98%F0%9D%9A%96%F0%9D%9A%8E+%F0%9D%9A%9D%F0%9D%9A%98%F0%9D%9A%90%F0%9D%9A%8E%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E%F0%9D%9A%9B.%22)](https://git.io/typing-svg)
 
 <img width="120" height="80" alt="tumblr_664c4cffba0a40b4acaab814d585950d_f0498a45_100" src="https://github.com/user-attachments/assets/df7b7154-4dd8-440b-9992-6ca76aa5243f" /><img width="120" height="80" alt="tumblr_8b97f9dd4b4bdf6b0402b32dc463d1c4_056e37b9_100" src="https://github.com/user-attachments/assets/7aaa9faf-8973-4f2c-91e6-cbc844e34172" /><img width="120" height="80" alt="tumblr_9235889a79fba841ec6394c500900706_db05c03b_100" src="https://github.com/user-attachments/assets/d2ea4284-bf29-4409-b0ad-1b3dec8d42eb" />
 
