@@ -7,6 +7,6 @@
 
 <img width="1920" height="751" alt="1785558305331_181274513764870949_1017977414555353985_6f9b7db654de6638f7206306139b96c0" src="https://github.com/user-attachments/assets/752519a3-a2ab-45f3-b917-4fe857325775" />
 <div>
-<div align="right">
+<div align="center">
 
 <img width="180" height="180" alt="1c769a77bf81375dd76e52f234b6108b-removebg-preview" src="https://github.com/user-attachments/assets/50fce323-67af-49b8-9854-e5c2643d7b17" />
