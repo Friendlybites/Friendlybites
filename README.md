@@ -10,8 +10,3 @@
 <div align="right">
 
 <img width="180" height="180" alt="1c769a77bf81375dd76e52f234b6108b-removebg-preview" src="https://github.com/user-attachments/assets/50fce323-67af-49b8-9854-e5c2643d7b17" />
-
-<div>
-<div align="left">
-
-<img width="580" height="480" alt="8f8ef9568124ff8153343e6f7fbc03ac-removebg-preview" src="https://github.com/user-attachments/assets/fd15f286-b2e2-48a8-91e6-888dafc1f8b8" />
