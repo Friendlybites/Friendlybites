@@ -1,6 +1,7 @@
 <p align="center">${\textsf{\color{#0d1117} deadasslazybun}}$
 
-<img src="https://github.com/user-attachments/assets/5a9e9f11-2b7a-4c79-9e5d-5421f64c62ed" width="1000%">
+<img src="https://github.com/user-attachments/assets/fb2739c9-7a98-42f0-aacf-9c60df640906" width="1000%">
+
 
 <div>
 <div align="center">
