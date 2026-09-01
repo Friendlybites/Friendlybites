@@ -1,6 +1,6 @@
 <p align="center">${\textsf{\color{#0d1117} deadasslazybun}}$
 
-<img width="1000" height="990" alt="Remove Background Outside Circle (2)" src="https://github.com/user-attachments/assets/5a9e9f11-2b7a-4c79-9e5d-5421f64c62ed" />
+<img src="https://github.com/user-attachments/assets/5a9e9f11-2b7a-4c79-9e5d-5421f64c62ed" width="1000%">
 
 <div>
 <div align="center">
