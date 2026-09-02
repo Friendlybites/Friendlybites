@@ -2,9 +2,10 @@
 
 <img src="https://github.com/user-attachments/assets/fb2739c9-7a98-42f0-aacf-9c60df640906" width="9000%">
 
+<img src="https://github.com/user-attachments/assets/a28ad71d-6eba-4ccc-86df-bd942ddae790" width="9000%">
+
 <p align="center">$\Huge{\textsf{\color{#942a2a} All edits are made by me DNC}}$</p>
 
-<img src="https://github.com/user-attachments/assets/a28ad71d-6eba-4ccc-86df-bd942ddae790" width="9000%">
 
 <div>
 <div align="center">
